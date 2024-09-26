@@ -1,5 +1,19 @@
 <h2>Hi everybody, I am willing to collaborate on any project to grow professionally.</h2>
-<p align="justify">I'm a junior full-stack developer from Italy 👋 Since my childhood I've always been fond of computers and electronics. I'm a very creative guy, and I love everything about technology. I also create, release, and distribute electronic music on my own. I mostly work with HTML, CSS3, JavaScript, Bootstrap, TypeScript, Angular, OOP, Java, SpringBoot, Thymeleaf. You can find my code on my GitHub page below.</p>
+<p align="justify"> I'm a junior full-stack developer from Italy. 👋 
+                  Since my childhood, I've always been fond of computers and electronics. 
+                  I'm a very creative person, and I love everything about technology. 
+                  I also create, release, and distribute electronic music on my own. 
+                  I mostly work with HTML, CSS3, JavaScript, Bootstrap, TypeScript, 
+                  Angular, OOP, Java, Python, Flask, SpringBoot, and Thymeleaf. 
+                  You can find my code on my GitHub page below. 
+                  I would be really happy to gain professional experience as a full-stack developer. 
+                  I am open to any type of collaboration or proposals related 
+                  to start-ups or projects of any kind. I am well aware that mastering 
+                  even one of the languages mentioned above requires several years of experience. 
+                  However, even though I am just starting out, I am very dedicated and curious, 
+                  and I work hard every day to learn new topics. 
+                  I would be happy to challenge myself.
+  
 <h2>Tech Skills</h2>
 <img src="https://github.com/user-attachments/assets/79cfcee7-db40-4c30-baf1-c3a03016322d" width="40" height="40"/>
 <img src="https://github.com/user-attachments/assets/13bac595-b174-42dd-99fd-1d95c14a119c" width="40" height="40"/>
