@@ -1,5 +1,5 @@
 <h2>Hi everybody, I am willing to collaborate on any project to grow professionally.</h2>
-<p align="justify"> I'm a junior full-stack developer from Italy. 👋 
+<p align="justify">👋 I am currently attending the Data Scientist - AI and Machine Learning course at ITS Apulia Digital Maker in Bari. In addition to my passion for full-stack development, I am highly motivated to acquire professional skills in Artificial Intelligence and Machine Learning, as I believe they are essential to tackling future challenges in the world of IT. 
                   Since my childhood, I've always been fond of computers and electronics. 
                   I'm a very creative person, and I love everything about technology. 
                   I also create, release, and distribute electronic music on my own. 
